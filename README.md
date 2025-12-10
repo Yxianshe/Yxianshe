@@ -1,4 +1,3 @@
 - 👋 Hi, I’m lyh
-- 👀 I’m interested in study
-- 🌱 I’m currently learning img segmentation
-this is a file of img segmentation
+- 👀 I’m interested in optical computation imaging and deep learning.
+- 🌱 I’m currently learning image restortion and diffusion model.
